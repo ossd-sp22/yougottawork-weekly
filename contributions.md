@@ -24,4 +24,4 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
 | March 7    |  https://github.com/joannakl/ossd/issues/20   |  course website   |   I reported a typo issue.   |
-|     |     |     |      |
+| March 29   |  https://www.openstreetmap.org/changeset/119050535   |  OpenStreetMap   |   I added NYU Alumni Hall on the map.   |
