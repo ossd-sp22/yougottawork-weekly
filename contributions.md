@@ -26,3 +26,4 @@ Replace the first row with your own contribution.
 | March 7    |  https://github.com/joannakl/ossd/issues/20   |  course website   |   I reported a typo issue.   |
 | March 29   |  https://www.openstreetmap.org/changeset/119050535   |  OpenStreetMap   |   I added NYU Alumni Hall on the map.   |
 | April 1 | https://www.openstreetmap.org/changeset/119189386 | OpenStreetMap | I added a restaurant tag on the map. |
+| April 3 | https://www.openstreetmap.org/way/1047546630#map=19/35.11257/129.11018 | OpenStreetMap | I added a convenience store tag on the map. |
