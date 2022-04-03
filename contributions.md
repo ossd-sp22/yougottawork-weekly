@@ -27,3 +27,4 @@ Replace the first row with your own contribution.
 | March 29   |  https://www.openstreetmap.org/changeset/119050535   |  OpenStreetMap   |   I added NYU Alumni Hall on the map.   |
 | April 1 | https://www.openstreetmap.org/changeset/119189386 | OpenStreetMap | I added a restaurant tag on the map. |
 | April 3 | https://www.openstreetmap.org/way/1047546630#map=19/35.11257/129.11018 | OpenStreetMap | I added a convenience store tag on the map. |
+| April 3 | https://en.wikipedia.org/w/index.php?title=CU_(store)&diff=prev&oldid=1080745538 | Wikipedia | I updated numerical data of the number of store locations. |
