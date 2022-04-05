@@ -30,3 +30,4 @@ Replace the first row with your own contribution.
 | April 3 | https://en.wikipedia.org/w/index.php?title=CU_(store)&diff=prev&oldid=1080745538 | Wikipedia | I updated numerical data of the number of store locations. |
 | April 4 | https://en.wikipedia.org/w/index.php?title=Paris_Baguette&diff=prev&oldid=1080913903 | Wikipedia | I added the website for Korean local chains. |
 | April 4 | https://www.openstreetmap.org/changeset/119287663 | OpenStreetMap | I added a restaurant on the map. |
+| April 5 | https://www.openstreetmap.org/changeset/119325361 | OpenStreetMap | I added restaurant details. |
