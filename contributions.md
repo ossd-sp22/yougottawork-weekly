@@ -33,3 +33,4 @@ Replace the first row with your own contribution.
 | April 5 | https://www.openstreetmap.org/changeset/119325361 | OpenStreetMap | I added restaurant details. |
 | April 5 | https://github.com/joannakl/ossd/issues/26 | course website | I reported a typo issue. |
 | April 6 | https://en.wikipedia.org/w/index.php?title=Homeplus&diff=prev&oldid=1081244138 | Wikipedia | I updated numerical data of the number of store locations. |
+| April 7 | https://www.openstreetmap.org/way/1049822001 | OpenStreetMap | I added a restaurant on the map. |
