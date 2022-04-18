@@ -40,3 +40,4 @@ Replace the first row with your own contribution.
 | April 13 | https://en.wikipedia.org/w/index.php?title=GS25&diff=prev&oldid=1082528528 | Wikipedia | I updated numerical data of the number of store locations. |
 | April 15 | https://www.openstreetmap.org/changeset/119760381 | OpenStreetMap | I added a restaurant on the map. |
 | April 16 | https://github.com/bsovs/Fall2022-Internships/issues/33 | Fall 22 CS Internship Github | I reported an issue about Page Not Found error. |
+| April 17 | https://www.openstreetmap.org/changeset/119836470 | OpenStreetMap | I added a restaurant on the map. |
