@@ -45,3 +45,4 @@ Replace the first row with your own contribution.
 | April 19 | https://en.wikipedia.org/w/index.php?title=Seo_Hyun-jin&diff=prev&oldid=1083616563 | Wikipedia | I added a reference link. |
 | April 19 | https://github.com/himahuja/Research-Internships-for-Undergraduates/issues/73 | Research internship list | I requested to add additional internship opportunity. |
 | April 19 | https://github.com/deutranium/Summer-2022-Research-Opportunities/pull/7 | Research Internship list | I created Pull Request for adding new internship information. |
+| April 20 | https://www.openstreetmap.org/changeset/119975631 | OpenStreetMap | I added a convenience store tag on the map. |
