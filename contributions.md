@@ -49,3 +49,4 @@ Replace the first row with your own contribution.
 | April 22 | https://www.openstreetmap.org/changeset/120028547 | OpenStreetMap | I added a stationery store on the map. |
 | April 24 | https://www.openstreetmap.org/changeset/120142482 | OpenStreetMap | I added a shoe store on the map. |
 | April 24 | https://github.com/pittcsc/Summer2022-Internships/issues/804 | CS Internship List | I updated Capital One's recruitment status. |
+| April 27 | https://www.openstreetmap.org/changeset/120241201 | OpenStreetMap | I added a store on the map. |
