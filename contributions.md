@@ -54,4 +54,8 @@ Replace the first row with your own contribution.
 | April 27 | https://github.com/codinasion/codinasion/issues/496 | Codinasion | I created an issue for a new program idea. |
 | April 28 | https://www.openstreetmap.org/changeset/120320480 | OpenStreetMap | I added a restaurant on the map. |
 | April 28 | https://en.wikipedia.org/w/index.php?title=Cry_(Faith_Hill_album)&diff=prev&oldid=1085157402 | Wikipedia | I fixed grammar issues. |
-| April 28 | https://github.com/codinasion/codinasion/issues/505 | Codinasion | I creeated an issue for a new program idea. |
+| April 28 | https://github.com/codinasion/codinasion/issues/505 | Codinasion | I created an issue for a new program idea. |
+| May 1 | https://www.openstreetmap.org/changeset/120408413 | OpenStreetMap | I added a restaurant on the map. |
+| May 1 | https://en.wikipedia.org/w/index.php?title=No_Brand_Burger&diff=prev&oldid=1085572404 | Wikipedia | I fixed grammar issues. |
+| May 1 | https://github.com/codinasion/codinasion/pull/521 | Codinasion | I created a program and made a PR. |
+| May 1 | https://github.com/codinasion/codinasion/issues/522 | Codinasion | I created an issue for a new program idea. |
