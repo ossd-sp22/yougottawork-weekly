@@ -59,3 +59,7 @@ Replace the first row with your own contribution.
 | May 1 | https://en.wikipedia.org/w/index.php?title=No_Brand_Burger&diff=prev&oldid=1085572404 | Wikipedia | I fixed grammar issues. |
 | May 1 | https://github.com/codinasion/codinasion/pull/521 | Codinasion | I created a program and made a PR. |
 | May 1 | https://github.com/codinasion/codinasion/issues/522 | Codinasion | I created an issue for a new program idea. |
+| May 3 | https://www.openstreetmap.org/changeset/120486421 | OpenStreetMap | I added a clothing store on the map. |
+| May 3 | https://en.wikipedia.org/w/index.php?title=Next_Level_(Aespa_song)&diff=prev&oldid=1085925611 | Wikipedia | I fixed grammar issues. |
+| May 3 | https://github.com/codinasion/codinasion-programme/issues/533 | Codinasion | I created an issue for a new program idea. |
+| May 3 | https://github.com/codinasion/codinasion-programme/pull/534 | Codinasion | I created a program and made a PR. |
