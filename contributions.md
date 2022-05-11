@@ -64,3 +64,4 @@ Replace the first row with your own contribution.
 | May 3 | https://github.com/codinasion/codinasion-programme/issues/533 | Codinasion | I created an issue for a new program idea. |
 | May 3 | https://github.com/codinasion/codinasion-programme/pull/534 | Codinasion | I created a program and made a PR. |
 | May 6 | https://en.wikipedia.org/wiki/Cookie_Run_(video_game) | Wikipedia | I fixed grammar issues. | 
+| May 11 | https://www.openstreetmap.org/changeset/120819140 | OpenStreetMap | I added a cafe on the map. |
